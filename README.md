@@ -1,10 +1,6 @@
 ## Course Learn Go Lang
 
-<center>  
-
 ![](images.png)
-</center>
-
 
 ## Class   
 

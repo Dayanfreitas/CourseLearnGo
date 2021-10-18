@@ -16,10 +16,11 @@
 
 ## Exercises
 * ### Nivel 1
-  - [Ninja 1](Exercícios/01-Nivel/01-exercicio.go) 
-  - [Ninja 2](Exercícios/01-Nivel/02-exercicio.go) 
-  - [Ninja 3](Exercícios/01-Nivel/03-exercicio.go) 
-  - [Ninja 4](Exercícios/01-Nivel/04-exercicio.go) 
+  - [Ninja 1.2](Exercícios/01-Nivel/01-exercicio.go) 
+  - [Ninja 1.2](Exercícios/01-Nivel/02-exercicio.go) 
+  - [Ninja 1.3](Exercícios/01-Nivel/03-exercicio.go) 
+  - [Ninja 1.4](Exercícios/01-Nivel/04-exercicio.go) 
+  - [Ninja 1.5](Exercícios/01-Nivel/05-exercicio.go) 
 
 
 

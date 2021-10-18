@@ -26,4 +26,6 @@ func main() {
 
 	fmt.Println(pessoa1)
 	fmt.Println(pessoa2)
+	//Promovido
+	fmt.Println(pessoa2.nome)
 }

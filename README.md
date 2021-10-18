@@ -1,6 +1,6 @@
 ## Course Learn Go Lang
 
-![](images.png)
+![](_Assets/capa.png)
 
 ## Class   
 
@@ -39,16 +39,21 @@
  
 ## Exercises
 * ### Nivel 1
-  - [Ninja 1.1](Exercícios/01-Nivel/01-exercicio.go) 
-  - [Ninja 1.2](Exercícios/01-Nivel/02-exercicio.go) 
-  - [Ninja 1.3](Exercícios/01-Nivel/03-exercicio.go) 
-  - [Ninja 1.4](Exercícios/01-Nivel/04-exercicio.go) 
-  - [Ninja 1.5](Exercícios/01-Nivel/05-exercicio.go) 
+  - [X] [Ninja 1.1](Exercícios/01-Nivel/01-exercicio.go) 
+  - [X] [Ninja 1.2](Exercícios/01-Nivel/02-exercicio.go) 
+  - [X] [Ninja 1.3](Exercícios/01-Nivel/03-exercicio.go) 
+  - [X] [Ninja 1.4](Exercícios/01-Nivel/04-exercicio.go) 
+  - [X] [Ninja 1.5](Exercícios/01-Nivel/05-exercicio.go) 
 * ### Nivel 4
-  - [Ninja 4.1](Exercícios/04-Nivel/01-exercicio.go) 
-  - [Ninja 4.2](Exercícios/04-Nivel/02-exercicio.go) 
-  - [Ninja 4.3](Exercícios/04-Nivel/03-exercicio.go) 
+  - [X] [Ninja 4.1](Exercícios/04-Nivel/01-exercicio.go) 
+  - [X] [Ninja 4.2](Exercícios/04-Nivel/02-exercicio.go) 
+  - [X] [Ninja 4.3](Exercícios/04-Nivel/03-exercicio.go) 
 
+* ### Nivel 5
+  - [X] [Ninja 5.1](Exercícios/05-Nivel/01-exercicio.go) 
+  - [X] [Ninja 5.2](Exercícios/05-Nivel/02-exercicio.go) 
+  - [X] [Ninja 5.3](Exercícios/05-Nivel/03-exercicio.go) 
+  - [X] [Ninja 5.4](Exercícios/05-Nivel/04-exercicio.go) 
 
 ## Credits
 [Link do repositório](https://github.com/ellenkorbes/aprendago)

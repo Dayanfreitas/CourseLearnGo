@@ -54,6 +54,18 @@
   - [X] [Ninja 5.2](Exercícios/05-Nivel/02-exercicio.go) 
   - [X] [Ninja 5.3](Exercícios/05-Nivel/03-exercicio.go) 
   - [X] [Ninja 5.4](Exercícios/05-Nivel/04-exercicio.go) 
+- * ### Nivel 6
+  - [ ] [Ninja 6.1](Exercícios/06-Nivel/01-exercicio.go) 
+  - [ ] [Ninja 6.2](Exercícios/06-Nivel/02-exercicio.go) 
+  - [ ] [Ninja 6.3](Exercícios/06-Nivel/03-exercicio.go) 
+  - [ ] [Ninja 6.4](Exercícios/06-Nivel/04-exercicio.go) 
+  - [ ] [Ninja 6.5](Exercícios/06-Nivel/06-exercicio.go) 
+  - [ ] [Ninja 6.6](Exercícios/06-Nivel/06-exercicio.go) 
+  - [ ] [Ninja 6.7](Exercícios/06-Nivel/07-exercicio.go) 
+  - [ ] [Ninja 6.8](Exercícios/06-Nivel/08-exercicio.go) 
+  - [ ] [Ninja 6.9](Exercícios/06-Nivel/09-exercicio.go) 
+  - [ ] [Ninja 6.10](Exercícios/06-Nivel/10-exercicio.go) 
+  - [ ] [Ninja 6.11](Exercícios/06-Nivel/11-exercicio.go) 
 
 ## Credits
 [Link do repositório](https://github.com/ellenkorbes/aprendago)

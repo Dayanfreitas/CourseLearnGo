@@ -1,7 +1,17 @@
 ## Course Learn Go Lang
 
-![](_Assets/capa.png)
+![Capa](_Assets/capa.png)
 
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World !")
+}
+```
 ## Class   
 
 * ### Playground
@@ -32,11 +42,29 @@
   - [Class 7](AgrupamentosDeDados/07-aula.go)
   - [Class 9](AgrupamentosDeDados/09-aula.go)
   - [Class 10](AgrupamentosDeDados/10-aula.go)
-* ### Playground
+* ### Structs
   - [Class 1](Structs/01-aula.go)
   - [Class 2](Structs/02-aula.go)
   - [Class 3](Structs/03-aula.go)
- 
+  - [Class 4](Structs/04-aula.go)
+
+* ### Funções
+  - [Class 1](Funções/01-aula.go)
+  - [Class 2](Funções/02-aula.go)
+  - [Class 3](Funções/03-aula.go)
+  - [Class 4](Funções/04-aula.go)
+  - [Class 5](Funções/05-aula.go)
+  - [Class 6](Funções/06-aula.go)
+  - [Class 7](Funções/07-aula.go)
+  - [Class 8](Funções/08-aula.go)
+  - [Class 9](Funções/09-aula.go)
+  - [Class 10](Funções/10-aula.go)
+  - [Class 11](Funções/11-aula.go)
+
+* ### Ponteiros
+  - [Class 1](Ponteiro/01-aula.go)
+  - [Class 2](Ponteiro/02-aula.go)
+  
 ## Exercises
 * ### Nivel 1
   - [X] [Ninja 1.1](Exercícios/01-Nivel/01-exercicio.go) 
@@ -44,6 +72,8 @@
   - [X] [Ninja 1.3](Exercícios/01-Nivel/03-exercicio.go) 
   - [X] [Ninja 1.4](Exercícios/01-Nivel/04-exercicio.go) 
   - [X] [Ninja 1.5](Exercícios/01-Nivel/05-exercicio.go) 
+* ### Nivel 2
+  - [X] [Ninja 2.1](Exercícios/02-Nivel/01-exercicio.go) 
 * ### Nivel 4
   - [X] [Ninja 4.1](Exercícios/04-Nivel/01-exercicio.go) 
   - [X] [Ninja 4.2](Exercícios/04-Nivel/02-exercicio.go) 
@@ -54,7 +84,7 @@
   - [X] [Ninja 5.2](Exercícios/05-Nivel/02-exercicio.go) 
   - [X] [Ninja 5.3](Exercícios/05-Nivel/03-exercicio.go) 
   - [X] [Ninja 5.4](Exercícios/05-Nivel/04-exercicio.go) 
-- * ### Nivel 6
+* ### Nivel 6
   - [ ] [Ninja 6.1](Exercícios/06-Nivel/01-exercicio.go) 
   - [ ] [Ninja 6.2](Exercícios/06-Nivel/02-exercicio.go) 
   - [ ] [Ninja 6.3](Exercícios/06-Nivel/03-exercicio.go) 
@@ -66,6 +96,10 @@
   - [ ] [Ninja 6.9](Exercícios/06-Nivel/09-exercicio.go) 
   - [ ] [Ninja 6.10](Exercícios/06-Nivel/10-exercicio.go) 
   - [ ] [Ninja 6.11](Exercícios/06-Nivel/11-exercicio.go) 
+
+* ### Nivel 7
+  - [X] [Ninja 7.1](Exercícios/07-Nivel/01-exercicio.go) 
+  - [X] [Ninja 7.2](Exercícios/07-Nivel/02-exercicio.go) 
 
 ## Credits
 [Link do repositório](https://github.com/ellenkorbes/aprendago)

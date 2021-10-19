@@ -65,6 +65,10 @@ func main() {
   - [Class 1](Ponteiro/01-aula.go)
   - [Class 2](Ponteiro/02-aula.go)
   
+* ### Json
+  - [Class 1](Json/01-aula.go)
+  - [Class 2](Json/02-aula.go)
+  
 ## Exercises
 * ### Nivel 1
   - [X] [Ninja 1.1](Exercícios/01-Nivel/01-exercicio.go) 

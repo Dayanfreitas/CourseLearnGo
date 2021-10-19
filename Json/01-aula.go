@@ -5,7 +5,8 @@ import (
 	"fmt"
 )
 
-//UPPERCASE -> PUBLIC
+//UPPERCASE -> PUBLIC - exportação
+//LOWECASE-> private
 type Pessoa struct {
 	Nome      string
 	Sobrenome string

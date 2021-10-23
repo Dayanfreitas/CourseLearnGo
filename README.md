@@ -70,8 +70,23 @@ func main() {
 * ### Json
   - [Class 1](Json/01-aula.go)
   - [Class 2](Json/02-aula.go)
-  
-## Exercises
+
+* ### Bcrypt
+  - [Class 1](bcrypt/01-aula.go)
+
+* ### Sort
+  - [Class 1](Sort/01-aula.go)
+  - [Class 2](Sort/02-aula.go)
+  - [Class 3](Sort/03-aula.go)
+  - [Class 4](Sort/04-aula.go)
+
+* ### Concorrência
+  - [Class 1](Concorrência/01-aula.go)
+  - [Class 2](Concorrência/02-aula.go)
+  - [Class 3](Concorrência/03-aula.go)
+  - [Class 4](Concorrência/04-aula.go)
+
+## Exercises  
 * ### Nivel 1
   - [X] [Ninja 1.1](Exercícios/01-Nivel/01-exercicio.go) 
   - [X] [Ninja 1.2](Exercícios/01-Nivel/02-exercicio.go) 

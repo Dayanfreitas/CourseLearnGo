@@ -1,14 +1,14 @@
 package main
 
 import (
-	"errors"
 	"fmt"
 )
 
 func main() {
-	err := errors.New("Isso é um erro!")
+	var nome int
 
+	_, err := fmt.Scan(&nome)
 	if err != nil {
-		fmt.Println(err)
+		panic(err)
 	}
 }

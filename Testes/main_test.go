@@ -5,6 +5,7 @@ import (
 	"testing"
 )
 
+// BET -> BENCHMARKS EXEMPLOS TEST
 type test struct {
 	data   []int
 	answer int
@@ -41,17 +42,33 @@ func ExempleSoma(t *testing.T) {
 // func TestSoma2(t *testing.T) {
 // 	x := soma(3, 2, 1)
 // 	r := 7
-
+//
 // 	if x != r {
 // 		t.Error("Expected:", r, "Got", x)
 // 	}
 // }
 
-func TestMultplicação(t *testing.T) {
+func TestMultplicacao(t *testing.T) {
 	x := multiplica(10, 10)
 	r := 100
 
 	if x != r {
 		t.Error("Expected:", r, "Got", x)
 	}
+}
+
+func BenchmarkSoma(b *testing.B) {
+
+	for n := 0; n < b.N; n++ {
+		soma(1, 1)
+	}
+
+}
+
+func BenchmarkMultiplica(b *testing.B) {
+
+	for n := 0; n < b.N; n++ {
+		multiplica(120, 120)
+	}
+
 }

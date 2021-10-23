@@ -86,6 +86,9 @@ func main() {
   - [Class 3](Concorrência/03-aula.go)
   - [Class 4](Concorrência/04-aula.go)
 
+* ### Canais
+  - [Class 1](Canais/01-aula.go)
+
 ## Exercises  
 * ### Nivel 1
   - [X] [Ninja 1.1](Exercícios/01-Nivel/01-exercicio.go) 

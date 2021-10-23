@@ -1,8 +1,7 @@
 mode: set
-teste/main.go:7.13,11.2 2 0
-teste/main.go:13.25,15.22 2 1
-teste/main.go:18.2,18.14 1 1
-teste/main.go:15.22,17.3 1 1
-teste/main.go:21.31,23.22 2 1
-teste/main.go:27.2,27.14 1 1
-teste/main.go:23.22,25.3 1 1
+teste/main.go:3.25,5.22 2 1
+teste/main.go:8.2,8.14 1 1
+teste/main.go:5.22,7.3 1 1
+teste/main.go:11.31,13.22 2 1
+teste/main.go:17.2,17.14 1 1
+teste/main.go:13.22,15.3 1 1

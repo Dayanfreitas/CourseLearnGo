@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 	canal := make(chan int)
-	go func(){
+	go func() {
 		canal <- 42
 	}()
 	fmt.Println(<-canal)

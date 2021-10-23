@@ -1,6 +1,9 @@
 package main
 
-import "testing"
+import (
+	"fmt"
+	"testing"
+)
 
 type test struct {
 	data   []int
@@ -28,6 +31,11 @@ func TestSoma(t *testing.T) {
 	if x != r {
 		t.Error("Expected:", r, "Got", x)
 	}
+}
+
+func ExempleSoma(t *testing.T) {
+	fmt.Println(soma(3, 2, 1))
+	//output 6
 }
 
 // func TestSoma2(t *testing.T) {

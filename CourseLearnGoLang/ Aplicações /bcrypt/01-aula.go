@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	//"golang.org/x/crypto/bcrypt"
+
+	"golang.org/x/crypto/bcrypt"
 )
 
 func main() {
@@ -14,6 +15,5 @@ func main() {
 		fmt.Println(err)
 	}
 
-	fmt.Println(sb)
 	fmt.Println(string(sb))
 }

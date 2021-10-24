@@ -1,0 +1,184 @@
+Cap. 1 – Visão Geral – 1. Bem-vindo! 
+Cap. 1 – Visão Geral – 2. Por que Go? 
+Cap. 1 – Visão Geral – 3. Sucesso 
+Cap. 1 – Visão Geral – 4. Recursos 
+Cap. 1 – Visão Geral – 5. Como esse curso funciona 
+Cap. 1 – Visão Geral – 6. Update: Exercícios 
+Cap. 2 – Variáveis, Valores & Tipos – 1. Go Playground 
+Cap. 2 – Variáveis, Valores & Tipos – 2. Hello world! 
+Cap. 2 – Variáveis, Valores & Tipos – 3. Operador curto de declaração 
+Cap. 2 – Variáveis, Valores & Tipos – 4. A palavra-chave var 
+Cap. 2 – Variáveis, Valores & Tipos – 5. Explorando tipos 
+Cap. 2 – Variáveis, Valores & Tipos – 6. Valor zero 
+Cap. 2 – Variáveis, Valores & Tipos – 7. O pacote fmt 
+Cap. 2 – Variáveis, Valores & Tipos – 8. Criando seu próprio tipo 
+Cap. 2 – Variáveis, Valores & Tipos – 9. Conversão, não coerção 
+Cap. 3 – Exercícios: Nível #1 – 1 
+Cap. 3 – Exercícios: Nível #1 – 2 
+Cap. 3 – Exercícios: Nível #1 – 3 
+Cap. 3 – Exercícios: Nível #1 – 4 
+Cap. 3 – Exercícios: Nível #1 – 5 
+Cap. 3 – Exercícios: Nível #1 – 6 
+Cap. 4 – Fundamentos da Programação – 1. Tipo booleano 
+Cap. 4 – Fundamentos da Programação – 2. Como os computadores funcionam 
+Cap. 4 – Fundamentos da Programação – 3. Tipos numéricos 
+Cap. 4 – Fundamentos da Programação – 4. Overflow 
+Cap. 4 – Fundamentos da Programação – 5. Tipo string (cadeias de caracteres) 
+Cap. 4 – Fundamentos da Programação – 6. Sistemas numéricos 
+Cap. 4 – Fundamentos da Programação – 7. Constantes 
+Cap. 4 – Fundamentos da Programação – 8. Iota 
+Cap. 4 – Fundamentos da Programação – 9. Deslocamento de bits 
+Cap. 5 – Exercícios: Nível #2 – 1 
+Cap. 5 – Exercícios: Nível #2 – 2 
+Cap. 5 – Exercícios: Nível #2 – 3 
+Cap. 5 – Exercícios: Nível #2 – 4 
+Cap. 5 – Exercícios: Nível #2 – 5 
+Cap. 5 – Exercícios: Nível #2 – 6 
+Cap. 5 – Exercícios: Nível #2 – 7 
+Cap. 6 – Fluxo de Controle – 1. Entendendo fluxo de controle 
+Cap. 6 – Fluxo de Controle – 2. Loops: inicialização, condição, pós 
+Cap. 6 – Fluxo de Controle – 3. Loops: nested loop (repetição hierárquica) 
+Cap. 6 – Fluxo de Controle – 4. Loops: a declaração for 
+Cap. 6 – Fluxo de Controle – 5. Loops: break & continue 
+Cap. 6 – Fluxo de Controle – 6. Loops: utilizando ascii 
+Cap. 6 – Fluxo de Controle – 7. Condicionais: a declaração if 
+Cap. 6 – Fluxo de Controle – 8. Condicionais: if, else if, else 
+Cap. 6 – Fluxo de Controle – 9. Condicionais: a declaração switch 
+Cap. 6 – Fluxo de Controle – 10. Condicionais: a declaração switch pt. 2 & documentação 
+Cap. 6 – Fluxo de Controle – 11. Operadores lógicos condicionais 
+Cap. 7 – Exercícios: Nível #3 – 1 
+Cap. 7 – Exercícios: Nível #3 – 2 
+Cap. 7 – Exercícios: Nível #3 – 3 
+Cap. 7 – Exercícios: Nível #3 – 4 
+Cap. 7 – Exercícios: Nível #3 – 5 
+Cap. 7 – Exercícios: Nível #3 – 6 
+Cap. 7 – Exercícios: Nível #3 – 7 
+Cap. 7 – Exercícios: Nível #3 – 8 
+Cap. 7 – Exercícios: Nível #3 – 9 
+Cap. 7 – Exercícios: Nível #3 – 10 
+Cap. 8 – Agrupamentos de Dados – 1. Array 
+Cap. 8 – Agrupamentos de Dados – 2. Slice: literal composta 
+Cap. 8 – Agrupamentos de Dados – 3. Slice: for range 
+Cap. 8 – Agrupamentos de Dados – 4. Slice: fatiando ou deletando de uma fatia 
+Cap. 8 – Agrupamentos de Dados – 5. Slice: anexando a uma slice 
+Cap. 8 – Agrupamentos de Dados – 6. Slice: make 
+Cap. 8 – Agrupamentos de Dados – 7. Slice: slice multi-dimensional 
+Cap. 8 – Agrupamentos de Dados – 8. Slice: a surpresa do array subjacente 
+Cap. 8 – Agrupamentos de Dados – 9. Maps: introdução 
+Cap. 8 – Agrupamentos de Dados – 10. Maps: range & deletando 
+Cap. 9 – Exercícios: Nível #4 – 1 
+Cap. 9 – Exercícios: Nível #4 – 2 
+Cap. 9 – Exercícios: Nível #4 – 3 
+Cap. 9 – Exercícios: Nível #4 – 4 
+Cap. 9 – Exercícios: Nível #4 – 5 
+Cap. 9 – Exercícios: Nível #4 – 6 
+Cap. 9 – Exercícios: Nível #4 – 7 
+Cap. 9 – Exercícios: Nível #4 – 8 
+Cap. 9 – Exercícios: Nível #4 – 9 
+Cap. 9 – Exercícios: Nível #4 – 10 
+Cap. 10 – Structs – 1. Struct 
+Cap. 10 – Structs – 2. Structs embutidos 
+Cap. 10 – Structs – 3. Lendo a documentação 
+Cap. 10 – Structs – 4. Structs anônimos 
+Cap. 11 – Exercícios: Nível #5 – 1 
+Cap. 11 – Exercícios: Nível #5 – 2 
+Cap. 11 – Exercícios: Nível #5 – 3 
+Cap. 11 – Exercícios: Nível #5 – 4 
+Cap. 12 – Funções – 1. Sintaxe 
+Cap. 12 – Funções – 2. Desenrolando (enumerando) uma slice 
+Cap. 12 – Funções – 3. Defer 
+Cap. 12 – Funções – 4. Métodos 
+Cap. 12 – Funções – 5. Interfaces & polimorfismo 
+Cap. 12 – Funções – 6. Funções anônimas 
+Cap. 12 – Funções – 7. Func como expressão 
+Cap. 12 – Funções – 8. Retornando uma função 
+Cap. 12 – Funções – 9. Callback 
+Cap. 12 – Funções – 10. Closure 
+Cap. 12 – Funções – 11. Recursividade 
+Cap. 13 – Exercícios: Nível #6 – 1 
+Cap. 13 – Exercícios: Nível #6 – 2 
+Cap. 13 – Exercícios: Nível #6 – 3 
+Cap. 13 – Exercícios: Nível #6 – 4 
+Cap. 13 – Exercícios: Nível #6 – 5 
+Cap. 13 – Exercícios: Nível #6 – 6 
+Cap. 13 – Exercícios: Nível #6 – 7 
+Cap. 13 – Exercícios: Nível #6 – 8 
+Cap. 13 – Exercícios: Nível #6 – 9 
+Cap. 13 – Exercícios: Nível #6 – 10 
+Cap. 13 – Exercícios: Nível #6 – 11 
+Cap. 14 – Ponteiros – 1. O que são ponteiros? 
+Cap. 14 – Ponteiros – 2. Quando usar ponteiros 
+Cap. 15 – Exercícios: Nível #7 – 1 
+Cap. 15 – Exercícios: Nível #7 – 2 
+Cap. 16 – Aplicações – 1. Documentação JSON 
+Cap. 16 – Aplicações – 2. JSON marshal (ordenação) 
+Cap. 16 – Aplicações – 3. JSON unmarshal (desordenação) 
+Cap. 16 – Aplicações – 4. A interface Writer 
+Cap. 16 – Aplicações – 5. O pacote sort 
+Cap. 16 – Aplicações – 6. Customizando o sort 
+Cap. 16 – Aplicações – 7. bcrypt 
+Cap. 17 – Exercícios: Nível #8 – 1 
+Cap. 17 – Exercícios: Nível #8 – 2 
+Cap. 17 – Exercícios: Nível #8 – 3 
+Cap. 17 – Exercícios: Nível #8 – 4 
+Cap. 17 – Exercícios: Nível #8 – 5 
+Cap. 18 – Concorrência – 1. Concorrência vs. paralelismo 
+Cap. 18 – Concorrência – 2. Goroutines & WaitGroups 
+Cap. 18 – Concorrência – 3. Discussão: Condição de corrida 
+Cap. 18 – Concorrência – 4. Na prática: Condição de corrida 
+Cap. 18 – Concorrência – 5. Mutex 
+Cap. 18 – Concorrência – 6. Atomic 
+Cap. 19 – Ambiente de Desenvolvimento – 1. O terminal 
+Cap. 19 – Ambiente de Desenvolvimento – 2. Go Workspace 
+Cap. 19 – Ambiente de Desenvolvimento – 3. IDEs 
+Cap. 19 – Ambiente de Desenvolvimento – 4. Comandos Go 
+Cap. 19 – Ambiente de Desenvolvimento – 5. Repositórios no GitHub 
+Cap. 19 – Ambiente de Desenvolvimento – 6. Explorando o GitHub 
+Cap. 19 – Ambiente de Desenvolvimento – 7. Compilação cruzada 
+Cap. 19 – Ambiente de Desenvolvimento – 8. Pacotes 
+Cap. 20 – Exercícios: Nível #9 – 1 
+Cap. 20 – Exercícios: Nível #9 – 2 
+Cap. 20 – Exercícios: Nível #9 – 3 
+Cap. 20 – Exercícios: Nível #9 – 4 
+Cap. 20 – Exercícios: Nível #9 – 5 
+Cap. 20 – Exercícios: Nível #9 – 6 
+Cap. 20 – Exercícios: Nível #9 – 7 
+Cap. 21 – Canais – 1. Entendendo canais 
+Cap. 21 – Canais – 2. Canais direcionais & Utilizando canais 
+Cap. 21 – Canais – 3. Range e close 
+Cap. 21 – Canais – 4. Select 
+Cap. 21 – Canais – 5. A expressão comma ok 
+Cap. 21 – Canais – 6. Convergência 
+Cap. 21 – Canais – 7. Divergência 
+Cap. 21 – Canais – 8. Context 
+Cap. 22 – Exercícios: Nível #10 – 1 
+Cap. 22 – Exercícios: Nível #10 – 2 
+Cap. 22 – Exercícios: Nível #10 – 3 
+Cap. 22 – Exercícios: Nível #10 – 4 
+Cap. 22 – Exercícios: Nível #10 – 5 
+Cap. 22 – Exercícios: Nível #10 – 6 
+Cap. 22 – Exercícios: Nível #10 – 7 
+Cap. 23 – Tratamento de Erros – 1. Entendendo erros 
+Cap. 23 – Tratamento de Erros – 2. Verificando erros 
+Cap. 23 – Tratamento de Erros – 3. Print & Log 
+Cap. 23 – Tratamento de Erros – 4. Recover 
+Cap. 23 – Tratamento de Erros – 5. Erros com informações adicionais 
+Cap. 24 – Exercícios: Nível #11 – 1 
+Cap. 24 – Exercícios: Nível #11 – 2 
+Cap. 24 – Exercícios: Nível #11 – 3 
+Cap. 24 – Exercícios: Nível #11 – 4 
+Cap. 24 – Exercícios: Nível #11 – 5 
+Cap. 25 – Documentação – 1. Introdução 
+Cap. 25 – Documentação – 2. go doc 
+Cap. 25 – Documentação – 3. godoc 
+Cap. 25 – Documentação – 4. godoc.org 
+Cap. 25 – Documentação – 5. Escrevendo Documentação 
+Cap. 26 – Exercícios: Nível #12 – 1 
+Cap. 26 – Exercícios: Nível #12 – 2 
+Cap. 26 – Exercícios: Nível #12 – 3 
+Cap. 27 – Testes & Benchmarks – 1. Introdução 
+Cap. 27 – Testes & Benchmarks – 2. Testes em tabela 
+Cap. 27 – Testes & Benchmarks – 3. Testes como exemplos 
+Cap. 27 – Testes & Benchmarks – 4. go fmt, govet e golint 
+Cap. 27 – Testes & Benchmarks – 5. Benchmarks 
+Cap. 27 – Testes & Benchmarks – 6. Cobertura
